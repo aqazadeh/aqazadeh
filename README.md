@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aqazadeh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alasgar-gadashov-a482651b4" height="30" width="40" /></a>
-<a href="https://instagram.com/_aqazadeh_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliqadasov" height="30" width="40" /></a>
-<a href="https://www.facebook.com/aqazadeh" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="aliqadasov" height="30" width="30" /></a>
+<a href="https://instagram.com/_aqazadeh_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqazadeh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aqazadeh" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="aqazadeh" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Front-end:</h3>
@@ -74,13 +74,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aligadashov&show_icons=true&locale=en&layout=compact" alt="aligadashov" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqazadeh&show_icons=true&locale=en&layout=compact" alt="aqazadeh" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aligadashov&show_icons=true&locale=en" alt="aligadashov" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqazadeh&show_icons=true&locale=en" alt="aqazadeh" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aligadashov&" alt="aligadashov" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aqazadeh&" alt="aqazadeh" />
 </p>
